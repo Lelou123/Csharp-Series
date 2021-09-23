@@ -1,0 +1,16 @@
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/DIO.Series/bin/Debug/net5.0/DIO.Series
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.AssemblyReference.cache
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/home/lelou/Documentos/DIO/decolaTech-bootcamp/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
